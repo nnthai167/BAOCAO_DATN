@@ -1,1 +1,4 @@
-# BAOCAO_DATN
+# BAOCAO_DATN   
+Các hệ thống cảm biến hiện đại ngày nay có khả năng ghi nhận tín hiệu rung chấn với độ chính xác và tần suất cao tại hàng nghìn điểm quan trắc. Khi được kết hợp với AI và học máy, các hệ thống này không chỉ phát hiện rung chấn bất thường trong thời gian thực, mà còn có thể phân biệt được giữa động đất thật và nhiễu từ bên ngoài môi trường, việc đưa ra cảnh báo sớm chỉ trong vài giây điều có thể quyết định giữa sự sống và cái chết cho hàng ngàn người. 	 
+Xuất phát từ tầm quan trọng đó, cùng với sự hướng dẫn tận tình của tiến sĩ Hoàng Văn Mạnh và sự đồng ý của Khoa Cơ kỹ thuật và Tự động hóa, em đã thực hiện đề tài “Nghiên cứu bài toán phát hiện động đất sử dụng dữ liệu cảm biến gia tốc” với mục tiêu xây dựng một mô hình học máy có khả năng phân biệt hiệu quả tín hiệu động đất và nhiễu nền, góp phần hỗ trợ các hệ thống cảnh báo sớm trong tương lai.
+
